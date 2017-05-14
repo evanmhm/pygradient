@@ -3,9 +3,9 @@ import glob, os, math
 
 import tupleFunctions as tf
 
-startColor = (255, 102, 102)
-endColorX = (255, 220, 102)
-endColorY = (255, 102, 220)
+startColor = (66, 138, 255)
+endColorX = (65, 255, 217)
+endColorY = (118, 65, 255)
 size = (500, 500)
 
 im = Image.new("RGB", size, 'black')
