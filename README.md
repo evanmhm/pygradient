@@ -1,5 +1,5 @@
 # Python Gradient
-A little tool I wrote to make gradients using python and PIL.
+A little tool I wrote to make gradients using python and Pillow. In the future I plan to tie this in with individually controllable lights and a raspberry pi.
 
 ### Usage
 
